@@ -1,0 +1,17 @@
+git clone <link from github repository>
+
+how to push files to repositories already present?
+Pull that repository to the system
+Now add files inside it
+git add .
+git commit –m “<comment>”
+git remote –v
+git push origin
+
+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
+
+git remote set-url origin https://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
+@github.com/sakhibrahil/spark_001.git
+
+https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
+
